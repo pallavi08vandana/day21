@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "TgMf4@example.com",
+      "phone": 1234567891
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "l5tQ5@example.com",
+      "phone": 1234567891
+    },
+    {
+      "id": "3",
+      "name": "Bob Smith",
+      "email": "Hh4dO@example.com",
+      "phone": 1234567891
+    },
+    {
+      "id": "3d5f",
+      "name": "adfqe",
+      "email": "fqw@gmail.com",
+      "phone": "983641034"
+    },
+    {
+      "id": "ba12",
+      "name": "hrfb",
+      "email": "xbgf@gmail.com",
+      "phone": "1234566789"
+    }
+  ]
+}

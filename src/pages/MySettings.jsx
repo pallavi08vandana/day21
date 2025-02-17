@@ -1,8 +1,9 @@
 import React from 'react'
 
- const MySettings =()=> {
+const MySettings = () => {
   return (
-    <div>MySettings</div>
+    <div style={{width:"50%",height:"50vh",background:"tomato"}}>MySettings</div>
   )
 }
+
 export default MySettings
